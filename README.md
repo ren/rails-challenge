@@ -4,7 +4,7 @@ We ask all candidates to fork this repo and build a small Rails app. When you're
 
 ## OMG, You're Famous. #blog
 
-Create a simple blog using Rails, it should allow visitors to view a list of posts, create thier own post, or update an existing post. There should be no way to delete a post via the web interface. A post should consist of a title and body.
+Create a simple blog using Rails, it should allow visitors to view a list of posts, create thier own post, or update an existing post. There should be no way to delete a post via the web interface. A post should require a title and body.
 
 We'll look for the following things:
 
